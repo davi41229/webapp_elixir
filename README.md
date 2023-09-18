@@ -8,6 +8,7 @@
 
 `Phoenix==1.5.9`
 * sudo apt install elixir
+* mix archive.install hex phx_new 1.5.9
 * resolver erro de rodar server no gitpod => sudo apt-get install erlang-dev
 
 
