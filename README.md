@@ -7,9 +7,15 @@
 `Erlang\OTP 24`
 
 `Phoenix==1.5.9`
+
+##### instalação elixir
 * sudo apt install elixir
+##### instalação framework phoenix
+* mix local.hex
 * mix archive.install hex phx_new 1.5.9
 * resolver erro de rodar server no gitpod => sudo apt-get install erlang-dev
+* link de resolução de erro para rodar server no gitpod ==>
+https://www.reddit.com/r/elixir/comments/10bib6h/elixir_phoenix_ubuntu_22_could_not_compile/
 
 
 #### comandos
